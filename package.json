@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/diegoferbp/dynamo-map-poc/issues"
   },
-  "homepage": "https://github.com/diegoferbp/dynamo-map-poc#readme"
+  "homepage": "https://github.com/diegoferbp/dynamo-map-poc#readme",
+  "dependencies": {
+    "aws-sdk": "^2.667.0",
+    "moment": "^2.25.0",
+    "moment-timezone": "^0.5.28",
+    "serverless-prune-plugin": "^1.4.2"
+  }
 }
