@@ -1,0 +1,19 @@
+{
+  "name": "dynamo-map-poc",
+  "version": "1.0.0",
+  "description": "DynamoDB Map Update",
+  "main": "handler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoferbp/dynamo-map-poc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegoferbp/dynamo-map-poc/issues"
+  },
+  "homepage": "https://github.com/diegoferbp/dynamo-map-poc#readme"
+}
